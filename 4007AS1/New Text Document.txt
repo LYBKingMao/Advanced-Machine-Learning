@@ -1,0 +1,3 @@
+Final:
+large epoch
+small minibatch size
